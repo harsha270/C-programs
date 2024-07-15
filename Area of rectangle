@@ -1,0 +1,12 @@
+#include<stdio.h>
+main()
+{
+int a,1,b;
+printf("enter the length:");
+scanf("%d",&1);
+printf("enter the breadth:");
+scanf("%d",&b);
+1=a*b;
+printf("area of the rectangle is:",81);
+return 0;
+}
