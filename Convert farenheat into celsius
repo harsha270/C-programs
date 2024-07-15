@@ -1,0 +1,10 @@
+#include <stdio.h>
+void main()
+{
+float (c,f);
+Printf("Enter the c,f values");
+scanf("%f", &c);
+c=(F-32) x5/9
+Printf("The celsius value are %c :),
+return 0;
+}
