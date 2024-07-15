@@ -1,0 +1,11 @@
+# include<stdio.h>
+void main()
+{
+int P.I;
+float S,I,R;
+Printf("Enter the P. i, R values:");
+scanf("%d,%d ,%f,&r);
+S.I=PxT×R%100
+printf("the value of s.i is:");
+return 0;
+}
