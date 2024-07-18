@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-// declaring the search function
 int search(char *ptr[], char* name);
 
 char *names[] = {
@@ -26,7 +25,6 @@ int main(void)
     return 0;
 }
 
-// define the search method
 int search(char *ptr[], char*name)
 {
     register int i;
